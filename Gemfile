@@ -70,3 +70,6 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+gem 'friendly_id'
+gem 'hashids'
